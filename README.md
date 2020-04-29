@@ -1,2 +1,4 @@
 # HealthyRide Mapping
- Playing around with GeoPandas, Pandas, and MatPlotLib
+
+You can view the analysis that I have done in the two main jupter notebook files named 'HousingConditions' and 
+'MapLocationStation'
