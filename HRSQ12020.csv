@@ -1,4 +1,4 @@
-Station #,Station Name,# of Racks,Latitude,Longitude
+Station #,Station Name,NumRacks,Latitude,Longitude
 1000,Liberty Ave & Stanwix St,16,40.441326,-80.004679
 1001,Forbes Ave & Market Square,19,40.440877,-80.00308
 1002,Third Ave & Wood St,15,40.43903,-80.00186
