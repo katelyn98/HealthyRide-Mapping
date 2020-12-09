@@ -1,5 +1,9 @@
 # HealthyRide Mapping
 
+# REPO UNDER CONSTRUCTION 
+* Will be cleaning up and documenting repo throughout the next month! 
+* If you have any questions, comments, concerns, or sugesstions please contact me! 
+
 ## This project has been featured as a 5 minute talk at CompSustDC 2020. The related video can be found in this repo.
 
 ## This project has been featured as a 10 minute thunder talk at PyOhio 2020. The related jupyter notebook is PyOhio Talk 2020.
