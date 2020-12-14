@@ -7,8 +7,8 @@ This repository consists of several visualizations used to analyze and evaluate 
 The visualization on the left maps the relationship between the location of bike stations and the 2015 median household income by Census Tract. The visualization on the right maps the relationship between the location of the bike stations and the poor housing condition metric by Census Tract. The poor housing condition metric was used to infer the socioeconomic status of a neighborhood. 
 
 <p align="center">
-  <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/medianhhincome.png" width=450px height=315px/> 
-  <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/bikeShareMap.png" width=450px height=315px/> 
+  <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/medianhhincome.png" width=350px height=315px/> 
+  <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/bikeShareMap.png" width=350px height=315px/> 
 </p>
 
 ## Related Presentations on this Repo
