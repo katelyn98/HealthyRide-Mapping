@@ -21,3 +21,8 @@ The visualization on the left maps the relationship between the location of bike
   * Computational Sustainability Doctoral Consortium October 2020
 * [Civic Hacking & Urban Informatics: Mapping Data with GeoPandas](https://www.youtube.com/watch?v=iaHDm0OPZsE&list=PL2k6bbM_wgjtGSzPXzUzP3AfVO-o4imbB&index=2)
   * PyOhio July 2020
+
+## Updates
+This repository is consisting under construction and new visualizations are being added when I find time. If you have any comments, suggestions, or feedback please reach out to me! 
+**Upcoming**
+* A config.yml file
