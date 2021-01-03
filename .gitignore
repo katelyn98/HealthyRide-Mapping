@@ -2,3 +2,8 @@
 .ipynb_checkpoints
 .gitattributes
 *.cpg
+.DS_Store
+Data/.DS_Store
+Data/cloudsqlpassword.txt
+Data/ssl/client-cert.pem
+*.pem
