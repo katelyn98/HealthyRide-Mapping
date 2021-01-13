@@ -20,6 +20,7 @@ The visualization on the left maps the relationship between the location of bike
 **2021**
 * [Reducing Discrimination in Learning Algorithms for Social Good in Sociotechnical Systems](https://arxiv.org/pdf/2011.13988.pdf)
   * Presenation on January 8th, 2021 at the *AI for Social Good Workshop at the International Joint Conference on Artificial Intelligence*
+
 **2020**
 * [Evaluating the Fairness of Bike Sharing Programs using Geospatial Analysis](https://katelyncmorrison.com/assets/CompSustDC2020.mp4)
   * Computational Sustainability Doctoral Consortium October 2020
