@@ -8,3 +8,5 @@ Data/cloudsqlpassword.txt
 Data/ssl/client-cert.pem
 *.pem
 .DS_Store
+Data/.DS_Store
+.DS_Store
