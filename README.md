@@ -2,6 +2,10 @@
 
 This repository consists of several visualizations used to analyze and evaluate Pittsburgh's HealthyRide Bike Sharing Program. The datasets used can be found in the `data` folder. Code for the visualizations created can be found in the `Notebooks` folder. Images of all visualizations I created can be found in the `Results` folder. 
 
+<p align="center">
+  <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/IJCAI%20Demo.gif"/> 
+</p>
+
 ## Understanding the Visualizations
 
 The visualization on the left maps the relationship between the location of bike stations and the 2015 median household income by Census Tract. The visualization on the right maps the relationship between the location of the bike stations and the poor housing condition metric by Census Tract. The poor housing condition metric was used to infer the socioeconomic status of a neighborhood. 
