@@ -28,6 +28,7 @@ The visualization on the left maps the relationship between the location of bike
   * PyOhio July 2020
 
 ## Updates
-This repository is consisting under construction and new visualizations are being added when I find time. If you have any comments, suggestions, or feedback please reach out to me! 
+This repository is consistently under construction and new visualizations are being added when I find time. If you have any comments, suggestions, or feedback please reach out to me! 
+
 **Upcoming**
 * A config.yml file
