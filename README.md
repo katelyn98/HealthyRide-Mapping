@@ -15,6 +15,11 @@ The visualization on the left maps the relationship between the location of bike
   <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/bikeShareMap.png" width=350px height=315px/> 
 </p>
 
+## Data sets used not published on repo
+
+* [Healthy Ride Trip Data from WPRDC](https://data.wprdc.org/dataset/healthyride-trip-data)
+  * Data sets not published on repo
+
 ## Related Presentations on this Repo
 
 **2021**
