@@ -1,16 +1,7 @@
-.DS_Store
 .ipynb_checkpoints
 .gitattributes
 *.cpg
-.DS_Store
-Data/.DS_Store
-Data/cloudsqlpassword.txt
-Data/ssl/client-cert.pem
 *.pem
 .DS_Store
-Data/.DS_Store
-.DS_Store
 1903.03882.pdf
-Data/CensusTractData
-Data/TripData
-Data/*
+Data/
