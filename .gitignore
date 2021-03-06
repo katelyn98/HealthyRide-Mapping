@@ -13,4 +13,4 @@ Data/.DS_Store
 1903.03882.pdf
 Data/CensusTractData
 Data/TripData
-Data
+Data/*
