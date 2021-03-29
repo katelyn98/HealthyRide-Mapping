@@ -17,7 +17,7 @@ The visualization on the left maps the relationship between the location of bike
 
 ## Understanding all of the Analyses
 
-[_Coming Soon_]()
+[_Coming Soon_](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/README.md)
 
 ## Data sets used not published on repo
 
