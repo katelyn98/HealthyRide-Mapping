@@ -17,10 +17,27 @@ The bike sharing program in Pittsburgh, PA is called [Healthy Ride](https://heal
 
 #### Demographics
 
+<p align="center">
+  <b> ACS 2019 5 year estimate for race by census tract </b>
+  <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/PGHrace_combo.png" width=650>
+  <br>
+  <i> The figure on the right shows a high percentage of the population in a majority of the census tracts in Pittsburgh are Wite. The figure on the right shows a cluster of yellow and orange colored census tracts in the middle of Pittsburgh representing census tracts with a high percentage of the population Black or African American. Out of the 100 bike stations, aprroximately 9 are within marginilized census tracts </i>
+</p>
+
+*Coming soon: Commuting to work trends*
+
+*Coming soon: Mean household income trends*
+
+*Coming soon: Poor housing conditions trends*
 
 #### Infrastructure
 
-
+<p align="center">
+  <b> Bike Score and Walk Score </b> from <a href="https://www.walkscore.com/professional/">walkscore.com</a>
+  <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/WalkBikecombo.png" width=650>
+  <br>
+  <i> The figure on the left shows regions of Pittsburgh that are suitable or not for biking. The figure on the right shows regions of Pittsburgh that are suitable or not for walking. To see ore about how the scores are decided for a particular area, check out Walk Score's <a href="https://www.walkscore.com/methodology.shtml">methodology</a>.  </i>
+</p>
 
 #### Points of Interest
 
@@ -45,13 +62,17 @@ December 2013        |      August 2015          |   February 2017    | Septembe
 
 #### Demographics
 
+<p align="center">
+  <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/NYCrace_combo.png" width=650>
+</p>
 
 #### Infrastructure
 
-
+*Coming Soon*
 
 #### Points of Interest
 
+*Coming Soon*
 
 ### Demand Prediction
 
