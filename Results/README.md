@@ -26,17 +26,43 @@ Several datasets and APIs were used to create the following visualizations. Thes
 
 #### Demographics
 
+A short note about the demographics data for Pittsburgh: I had difficulty accessing Allegheny County census tract data from the `cenpy` Python library. I was able to get data for the census tracts that are considered to be a part of the Pittsburgh metro area for the race attributes. As a result, the maps presented for visualizing race by census tract look slighlty different than the rest of the Pittsburgh maps. 
+
+<p align="center">
+  <b> ACS 2019 5 year estimate for population 16 years or older </b>
+  <br>
+  <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/population.png" width=650>
+  <br>
+  <i> The figure on the left shows a high percentage of the population in a majority of the census tracts in Pittsburgh are White. The figure on the right shows a cluster of yellow and orange colored census tracts in the middle of Pittsburgh representing census tracts where a high percentage of the population Black or African American. Out of the 100 bike stations, aprroximately 9 are within marginilized census tracts. </i>
+</p>
+
 <p align="center">
   <b> ACS 2019 5 year estimate for race by census tract </b>
   <br>
   <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/PGHrace_combo.png" width=650>
   <br>
-  <i> The figure on the left shows a high percentage of the population in a majority of the census tracts in Pittsburgh are Wite. The figure on the right shows a cluster of yellow and orange colored census tracts in the middle of Pittsburgh representing census tracts where a high percentage of the population Black or African American. Out of the 100 bike stations, aprroximately 9 are within marginilized census tracts. </i>
+  <i> The figure on the left shows a high percentage of the population in a majority of the census tracts in Pittsburgh are White. The figure on the right shows a cluster of yellow and orange colored census tracts in the middle of Pittsburgh representing census tracts where a high percentage of the population Black or African American. Out of the 100 bike stations, aprroximately 9 are within marginilized census tracts. </i>
 </p>
 
 #### Commuting to Work
 
+<p align="center">
+  <b> ACS 2019 5 year estimates for commuting to work </b>
+  <br>
+  <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/Commutingtrends.png" width=750>
+  <br>
+  <i> Subtitle caption for figure. </i>
+</p>
+
 #### Household Income
+
+<p align="center">
+  <b> ACS 2019 5 year estimates for income </b>
+  <br>
+  <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/incomecombo.png" width=750>
+  <br>
+  <i> Subtitle caption for figure. </i>
+</p>
 
 #### Poor Housing Conditions
 
