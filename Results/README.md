@@ -31,7 +31,7 @@ A short note about the demographics data for Pittsburgh: I had difficulty access
 <p align="center">
   <b> ACS 2019 5 year estimate for population 16 years or older </b>
   <br>
-  <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/population.png" width=650>
+  <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/population.png" width=550>
   <br>
   <i> Caption here </i>
 </p>
@@ -39,7 +39,7 @@ A short note about the demographics data for Pittsburgh: I had difficulty access
 <p align="center">
   <b> ACS 2019 5 year estimate for race by census tract </b>
   <br>
-  <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/PGHrace_combo.png" width=650>
+  <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/PGHrace_combo.png" width=550>
   <br>
   <i> The figure on the left shows a high percentage of the population in a majority of the census tracts in Pittsburgh are White. The figure on the right shows a cluster of yellow and orange colored census tracts in the middle of Pittsburgh representing census tracts where a high percentage of the population Black or African American. Out of the 100 bike stations, aprroximately 9 are within marginilized census tracts. </i>
 </p>
@@ -49,7 +49,7 @@ A short note about the demographics data for Pittsburgh: I had difficulty access
 <p align="center">
   <b> ACS 2019 5 year estimates for commuting to work </b>
   <br>
-  <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/Commutingtrends.png" width=750>
+  <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/Commutingtrends.png">
   <br>
   <i> caption here </i>
 </p>
@@ -57,7 +57,7 @@ A short note about the demographics data for Pittsburgh: I had difficulty access
 <p align="center">
   <b> ACS 2019 5 year estimates for mean travel time to work (minutes)</b>
   <br>
-  <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/meantraveltime.png" width=750>
+  <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/meantraveltime.png" width=550>
   <br>
   <i> Caption here </i>
 </p>
@@ -79,7 +79,7 @@ A short note about the demographics data for Pittsburgh: I had difficulty access
 <p align="center">
   <b> Bike Score and Walk Score </b> from <a href="https://www.walkscore.com/professional/">walkscore.com</a>
   <br>
-  <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/WalkBikecombo.png" width=650>
+  <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/WalkBikecombo.png" width=550>
   <br>
   <i> The figure on the left shows regions of Pittsburgh that are suitable or not for biking. The figure on the right shows regions of Pittsburgh that are suitable or not for walking. To see ore about how the scores are decided for a particular area, check out Walk Score's <a href="https://www.walkscore.com/methodology.shtml">methodology</a>.  </i>
 </p>
