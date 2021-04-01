@@ -39,7 +39,7 @@ A short note about the demographics data for Pittsburgh: I had difficulty access
 <p align="center">
   <b> ACS 2019 5 year estimate for race by census tract </b>
   <br>
-  <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/PGHrace_combo.png" width=550>
+  <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/PGHrace_combo.png" width=750>
   <br>
   <i> The figure on the left shows a high percentage of the population in a majority of the census tracts in Pittsburgh are White. The figure on the right shows a cluster of yellow and orange colored census tracts in the middle of Pittsburgh representing census tracts where a high percentage of the population Black or African American. Out of the 100 bike stations, aprroximately 9 are within marginilized census tracts. </i>
 </p>
@@ -74,12 +74,20 @@ A short note about the demographics data for Pittsburgh: I had difficulty access
 
 #### Poor Housing Conditions
 
+<p align="center">
+  <b> Allegheny County Poor Housing Conditions </b>
+  <br>
+  <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/poorhousingconditions.png" width=550>
+  <br>
+  <i> Caption here </i>
+</p>
+
 #### Infrastructure
 
 <p align="center">
   <b> Bike Score and Walk Score </b> from <a href="https://www.walkscore.com/professional/">walkscore.com</a>
   <br>
-  <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/WalkBikecombo.png" width=550>
+  <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/WalkBikecombo.png" width=750>
   <br>
   <i> The figure on the left shows regions of Pittsburgh that are suitable or not for biking. The figure on the right shows regions of Pittsburgh that are suitable or not for walking. To see ore about how the scores are decided for a particular area, check out Walk Score's <a href="https://www.walkscore.com/methodology.shtml">methodology</a>.  </i>
 </p>
@@ -91,6 +99,10 @@ A short note about the demographics data for Pittsburgh: I had difficulty access
 ### Demand Prediction
 
 #### Historical Data
+
+2018 Outflow                       |             2019 Outflow          |          2020 Outflow            |
+:-------------------------:|:-------------------------:|:-------------------------:
+![width="40"](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/outflow%202018.png)  |  ![](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/outflow%202019.png) | ![](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/outflow%202020.png)
 
 #### Spatially Sensitive
 
