@@ -100,11 +100,19 @@ A short note about the demographics data for Pittsburgh: I had difficulty access
 
 #### Historical Data
 
-2018 Outflow                       |             2019 Outflow          |          2020 Outflow            |
-:-------------------------:|:-------------------------:|:-------------------------:
-![width="40"](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/outflow%202018.png)  |  ![](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/outflow%202019.png) | ![](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/outflow%202020.png)
+2018 Outflow       |     2019 Outflow |    2020 Outflow      | Predicted Demand using mean |
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![width="40"](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/outflow%202018.png)  |  ![](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/outflow%202019.png) | ![](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/outflow%202020.png) | ![](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/predmean.png)
 
-#### Spatially Sensitive
+#### Spatially Sensitive (*preliminary*)
+
+<p align="center">
+  <b> Predicting Outflow using spatial & infrastructural attributes & demographics </b>
+  <br>
+  <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/scorepredoutflow.png" width=550>
+  <br>
+  <i> Caption here </i>
+</p>
 
 ---
 ## New York City, NY
