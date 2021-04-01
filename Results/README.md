@@ -6,7 +6,7 @@ All of the following analyses were generated in the jupyter notebookes located i
 ---
 ## Pittsburgh, PA
 
-The bike sharing program in Pittsburgh, PA is called [Healthy Ride](https://healthyridepgh.com/) and is advertised as the public bike share system for Pittsburgh, PA. It is powered by [NextBike](https://www.nextbike.co.uk/en/) which is a company in the UK that provides bikes and infrastructure for a bike sharing program. Healthy Ride was first established in Pittsburgh, in May 2015 and has since expanded to 100 stations and 550 bikes. Below you can various stages of the program over the past few years.
+The bike sharing program in Pittsburgh, PA is called [Healthy Ride](https://healthyridepgh.com/) and is advertised as the public bike share system for Pittsburgh, PA. It is powered by [NextBike](https://www.nextbike.co.uk/en/) which is a company in the UK that provides bikes and infrastructure for a bike sharing program. Healthy Ride was first established in Pittsburgh, in May 2015 and has since expanded to 100 stations and 550 bikes. Below you can see various stages of the program over the past few years.
 
 2015                       |             2018          |          2020            |
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -14,16 +14,45 @@ The bike sharing program in Pittsburgh, PA is called [Healthy Ride](https://heal
 
 ### Analyses
 
+Several datasets and APIs were used to create the following visualizations. These datasets are not released on this repo, but I can provide access to the datasets I have used upon request. I also provide direct links to the public datasets below.
+
+**Datasets**
+- [Healthy Ride Station Locations](#)
+- [Healthy Ride Trip Data](#)
+- [ACS 2019 5 year estimates](#) for employment, population, and commuting trends
+- [Points of interest](#) using the [OverPass API](#) for [OpenStreetMap](#)
+- Transit Score, Bike Score, and Walk Score from [Walk Score API](#)
+- [Poor housing conditions](#)
 
 #### Demographics
 
+<p align="center">
+  <b> ACS 2019 5 year estimate for race by census tract </b>
+  <br>
+  <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/PGHrace_combo.png" width=650>
+  <br>
+  <i> The figure on the left shows a high percentage of the population in a majority of the census tracts in Pittsburgh are Wite. The figure on the right shows a cluster of yellow and orange colored census tracts in the middle of Pittsburgh representing census tracts where a high percentage of the population Black or African American. Out of the 100 bike stations, aprroximately 9 are within marginilized census tracts. </i>
+</p>
+
+#### Commuting to Work
+
+#### Household Income
+
+#### Poor Housing Conditions
 
 #### Infrastructure
 
-
+<p align="center">
+  <b> Bike Score and Walk Score </b> from <a href="https://www.walkscore.com/professional/">walkscore.com</a>
+  <br>
+  <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/WalkBikecombo.png" width=650>
+  <br>
+  <i> The figure on the left shows regions of Pittsburgh that are suitable or not for biking. The figure on the right shows regions of Pittsburgh that are suitable or not for walking. To see ore about how the scores are decided for a particular area, check out Walk Score's <a href="https://www.walkscore.com/methodology.shtml">methodology</a>.  </i>
+</p>
 
 #### Points of Interest
 
+*Visualization Coming Soon*
 
 ### Demand Prediction
 
@@ -42,16 +71,24 @@ December 2013        |      August 2015          |   February 2017    | Septembe
 
 ### Analyses
 
+Several datasets and APIs were used to create the following visualizations. These datasets are not released on this repo, but I can provide access to the datasets I used upon request. I also provide direct links to the public datasets below.
+
+**Datasets**
+
 
 #### Demographics
 
+<p align="center">
+  <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/NYCrace_combo.png" width=650>
+</p>
 
 #### Infrastructure
 
-
+*Coming Soon*
 
 #### Points of Interest
 
+*Coming Soon*
 
 ### Demand Prediction
 
