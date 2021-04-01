@@ -17,12 +17,12 @@ The bike sharing program in Pittsburgh, PA is called [Healthy Ride](https://heal
 Several datasets and APIs were used to create the following visualizations. These datasets are not released on this repo, but I can provide access to the datasets I have used upon request. I also provide direct links to the public datasets below.
 
 **Datasets**
-- [Healthy Ride Station Locations](#)
-- [Healthy Ride Trip Data](#)
-- [ACS 2019 5 year estimates](#) for employment, population, and commuting trends
-- [Points of interest](#) using the [OverPass API](#) for [OpenStreetMap](#)
-- Transit Score, Bike Score, and Walk Score from [Walk Score API](#)
-- [Poor housing conditions](#)
+- [Healthy Ride Station Locations](https://data.wprdc.org/dataset/healthyride-stations)
+- [Healthy Ride Trip Data](https://data.wprdc.org/dataset/healthyride-trip-data)
+- [ACS 2019 5 year estimates](https://data.census.gov/cedsci/table?q=ACSDP5Y2019.DP03%20Pittsburgh%20city,%20Pennsylvania&t=Commuting%3AEmployment%3AIncome%20and%20Poverty&g=1400000US42003020100,42003020300,42003030500,42003040500,42003050100,42003050600&tid=ACSDP5Y2019.DP03&hidePreview=true) for employment, population, and commuting trends. *Note: All census tracts were searched for; here is just a sample of 6 of them*
+- Points of interest using the [OverPass API](https://overpass-turbo.eu/s/15Fj) for [OpenStreetMap OverPass Turbo](https://overpass-turbo.eu/)
+- Transit Score, Bike Score, and Walk Score from [Walk Score API](https://www.walkscore.com/professional/walk-score-apis.php)
+- [Poor housing conditions](https://data.wprdc.org/dataset/allegheny-county-poor-condition-residential-parcel-rates)
 
 #### Demographics
 
@@ -33,7 +33,7 @@ A short note about the demographics data for Pittsburgh: I had difficulty access
   <br>
   <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/population.png" width=650>
   <br>
-  <i> The figure on the left shows a high percentage of the population in a majority of the census tracts in Pittsburgh are White. The figure on the right shows a cluster of yellow and orange colored census tracts in the middle of Pittsburgh representing census tracts where a high percentage of the population Black or African American. Out of the 100 bike stations, aprroximately 9 are within marginilized census tracts. </i>
+  <i> Caption here </i>
 </p>
 
 <p align="center">
@@ -51,7 +51,15 @@ A short note about the demographics data for Pittsburgh: I had difficulty access
   <br>
   <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/Commutingtrends.png" width=750>
   <br>
-  <i> Subtitle caption for figure. </i>
+  <i> caption here </i>
+</p>
+
+<p align="center">
+  <b> ACS 2019 5 year estimates for mean travel time to work (minutes)</b>
+  <br>
+  <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/meantraveltime.png" width=750>
+  <br>
+  <i> Caption here </i>
 </p>
 
 #### Household Income
@@ -61,7 +69,7 @@ A short note about the demographics data for Pittsburgh: I had difficulty access
   <br>
   <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/incomecombo.png" width=750>
   <br>
-  <i> Subtitle caption for figure. </i>
+  <i> Caption here </i>
 </p>
 
 #### Poor Housing Conditions
