@@ -98,11 +98,19 @@ A short note about the demographics data for Pittsburgh: I had difficulty access
 
 ### Demand Prediction
 
+#### Models (*preliminary results - work in progress*)
+
+We are training a variety of supervised learning models on a variety of features from our data to identify the best one for demand prediction. You can find some preliminary findings that were unsuccessful in the notebook linked below. Moving forward we will be modifying the dataset and number of features used in the training set to include monthly outflow, weather data, and elevation data. 
+- [Random Forest](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Models/RandomForestModel.ipynb)
+- [MultiLayerPerceptron](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Models/MLP.ipynb)
+
 #### Historical Data
 
 2018 Outflow       |     2019 Outflow |    2020 Outflow      | Predicted Demand using mean |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![width="40"](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/outflow%202018.png)  |  ![](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/outflow%202019.png) | ![](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/outflow%202020.png) | ![](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/predmean.png)
+
+It is evident here that if you use solely historical data to predict demand, then it will learn to replicate the biases present in the historical data. Thus, the predicted demand here will look nearly the same as the historical data. But, how do we know that other regions that don't have historical data don't need this resource?
 
 #### Spatially Sensitive (*preliminary*)
 
@@ -111,7 +119,7 @@ A short note about the demographics data for Pittsburgh: I had difficulty access
   <br>
   <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/scorepredoutflow.png" width=550>
   <br>
-  <i> Caption here </i>
+  <i> Using infrastructural attributes, historical data, and demographics we can identify new regions to explore without being biased. </i>
 </p>
 
 ---
