@@ -89,7 +89,7 @@ A short note about the demographics data for Pittsburgh: I had difficulty access
   <br>
   <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/WalkBikecombo.png" width=750>
   <br>
-  <i> The figure on the left shows regions of Pittsburgh that are suitable or not for biking. The figure on the right shows regions of Pittsburgh that are suitable or not for walking. To see ore about how the scores are decided for a particular area, check out Walk Score's <a href="https://www.walkscore.com/methodology.shtml">methodology</a>.  </i>
+  <i> The figure on the left shows regions of Pittsburgh that are suitable or not for biking. The figure on the right shows regions of Pittsburgh that are suitable or not for walking. To see more about how the scores are decided for a particular area, check out Walk Score's <a href="https://www.walkscore.com/methodology.shtml">methodology</a>.  </i>
 </p>
 
 #### Points of Interest
@@ -141,7 +141,11 @@ Several datasets and APIs were used to create the following visualizations. Thes
 #### Demographics
 
 <p align="center">
+  <b> ACS 2019 5 year estimate for race by census tract</b> from <a href="https://www.walkscore.com/professional/">walkscore.com</a>
+  <br>
   <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/NYCrace_combo.png" width=650>
+  <br>
+  <i> These visualizations follow similar trends seen in Pitsburgh, PA </i>
 </p>
 
 #### Infrastructure
