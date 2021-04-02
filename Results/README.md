@@ -143,7 +143,10 @@ December 2013        |      August 2015          |   February 2017    | Septembe
 Several datasets and APIs were used to create the following visualizations. These datasets are not released on this repo, but I can provide access to the datasets I used upon request. I also provide direct links to the public datasets below.
 
 **Datasets**
-
+- [Citi Bike Trip Data](https://s3.amazonaws.com/tripdata/index.html)
+- ACS 2019 5 year estimates using `cenpy` Python library
+- WalkScore API (*coming soon*)
+- OverPass API (*coming soon*)
 
 #### Demographics
 
@@ -155,6 +158,8 @@ Several datasets and APIs were used to create the following visualizations. Thes
   <i> These visualizations follow similar trends seen in Pitsburgh, PA </i>
 </p>
 
+*More demographic analyses will be added soon. In the meantime, check out the [NYC Analyses notebook](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Notebooks/NYC%20Analyses.ipynb) to see all of them.*
+
 #### Infrastructure
 
 *Coming Soon*
@@ -165,9 +170,16 @@ Several datasets and APIs were used to create the following visualizations. Thes
 
 ### Demand Prediction
 
+*Coming Soon*
+
 #### Historical Data
 
+*Coming Soon*
+
 #### Spatially Sensitive
+
+*Coming Soon*
+
 ---
 ## Chicago, IL (*Working Progress*)
 
