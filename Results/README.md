@@ -151,7 +151,7 @@ Several datasets and APIs were used to create the following visualizations. Thes
 #### Demographics
 
 <p align="center">
-  <b> ACS 2019 5 year estimate for race by census tract</b> from <a href="https://www.walkscore.com/professional/">walkscore.com</a>
+  <b> ACS 2019 5 year estimate for race by census tract</b>
   <br>
   <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/NYCrace_combo.png" width=650>
   <br>
