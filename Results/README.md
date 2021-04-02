@@ -2,7 +2,7 @@
 
 All of the following analyses were generated in the jupyter notebookes located in the [`notebooks` folder](https://github.com/katelyn98/HealthyRide-Mapping/tree/master/Notebooks). The primary notebook files that have a majority of the analyses are [PGH ML Dataset](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Notebooks/PGH%20ML%20DataSet.ipynb), [PGHCenpy](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Notebooks/PGHCenpy.ipynb), and [NYC Analyses](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Notebooks/NYC%20Analyses.ipynb). There are other analyses scattered throughout the other notebooks. 
 
-Preliminary models that are being trained on a variety of features can be found in the [`models` folder](https://github.com/katelyn98/HealthyRide-Mapping/tree/master/Models). 
+Preliminary models that are being trained on a variety of features can be found in the [`models` folder](https://github.com/katelyn98/HealthyRide-Mapping/tree/master/Models). You can view some preliminary results of our Random Forest model [here](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/README.md#historical-data).
 
 ---
 ## Pittsburgh, PA
@@ -143,17 +143,22 @@ December 2013        |      August 2015          |   February 2017    | Septembe
 Several datasets and APIs were used to create the following visualizations. These datasets are not released on this repo, but I can provide access to the datasets I used upon request. I also provide direct links to the public datasets below.
 
 **Datasets**
-
+- [Citi Bike Trip Data](https://s3.amazonaws.com/tripdata/index.html)
+- ACS 2019 5 year estimates using `cenpy` Python library
+- WalkScore API (*coming soon*)
+- OverPass API (*coming soon*)
 
 #### Demographics
 
 <p align="center">
-  <b> ACS 2019 5 year estimate for race by census tract</b> from <a href="https://www.walkscore.com/professional/">walkscore.com</a>
+  <b> ACS 2019 5 year estimate for race by census tract</b>
   <br>
   <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/NYCrace_combo.png" width=650>
   <br>
   <i> These visualizations follow similar trends seen in Pitsburgh, PA </i>
 </p>
+
+*More demographic analyses will be added soon. In the meantime, check out the [NYC Analyses notebook](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Notebooks/NYC%20Analyses.ipynb) to see all of them.*
 
 #### Infrastructure
 
@@ -165,10 +170,20 @@ Several datasets and APIs were used to create the following visualizations. Thes
 
 ### Demand Prediction
 
+*Coming Soon*
+
 #### Historical Data
 
+*Coming Soon*
+
 #### Spatially Sensitive
+
+*Coming Soon*
+
 ---
 ## Chicago, IL (*Working Progress*)
 
 The bike sharing program in Chicago, IL is called [Divy Bike](https://www.divvybikes.com/) and is also powered by [Lyft](https://www.lyft.com/bikes/chicago-il).
+
+---
+## Chattanooga, TN (*New Addition as of March 30th*)
