@@ -19,7 +19,7 @@ The visualization on the left maps the relationship between the location of bike
 
 [_Click to see more analyses_](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/README.md)
 
-## Data sets that I used & did not published on repo
+## Data sets that I used & did not publish on repo
 
 * [Healthy Ride Trip Data from WPRDC](https://data.wprdc.org/dataset/healthyride-trip-data)
 * [Walk Score, Bike Score, & Transit Score](#)
