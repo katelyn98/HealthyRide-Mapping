@@ -2,6 +2,7 @@
 
 All of the following analyses were generated in the jupyter notebookes located in the [`notebooks` folder](https://github.com/katelyn98/HealthyRide-Mapping/tree/master/Notebooks). The primary notebook files that have a majority of the analyses are [PGH ML Dataset](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Notebooks/PGH%20ML%20DataSet.ipynb), [PGHCenpy](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Notebooks/PGHCenpy.ipynb), and [NYC Analyses](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Notebooks/NYC%20Analyses.ipynb). There are other analyses scattered throughout the other notebooks. 
 
+Preliminary models that are being trained on a variety of features can be found in the [`models` folder](https://github.com/katelyn98/HealthyRide-Mapping/tree/master/Models). 
 
 ---
 ## Pittsburgh, PA
@@ -89,7 +90,7 @@ A short note about the demographics data for Pittsburgh: I had difficulty access
   <br>
   <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/WalkBikecombo.png" width=750>
   <br>
-  <i> The figure on the left shows regions of Pittsburgh that are suitable or not for biking. The figure on the right shows regions of Pittsburgh that are suitable or not for walking. To see ore about how the scores are decided for a particular area, check out Walk Score's <a href="https://www.walkscore.com/methodology.shtml">methodology</a>.  </i>
+  <i> The figure on the left shows regions of Pittsburgh that are suitable or not for biking. The figure on the right shows regions of Pittsburgh that are suitable or not for walking. To see more about how the scores are decided for a particular area, check out Walk Score's <a href="https://www.walkscore.com/methodology.shtml">methodology</a>.  </i>
 </p>
 
 #### Points of Interest
@@ -98,11 +99,19 @@ A short note about the demographics data for Pittsburgh: I had difficulty access
 
 ### Demand Prediction
 
+#### Models (*preliminary results - work in progress*)
+
+We are training a variety of supervised learning models on a variety of features from our data to identify the best one for demand prediction. You can find some preliminary findings that were unsuccessful in the notebook linked below. Moving forward we will be modifying the dataset and number of features used in the training set to include monthly outflow, weather data, and elevation data. 
+- [Random Forest](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Models/RandomForestModel.ipynb)
+- [MultiLayerPerceptron](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Models/MLP.ipynb)
+
 #### Historical Data
 
 2018 Outflow       |     2019 Outflow |    2020 Outflow      | Predicted Demand using mean |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![width="40"](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/outflow%202018.png)  |  ![](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/outflow%202019.png) | ![](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/outflow%202020.png) | ![](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/predmean.png)
+
+It is evident here that if you use solely historical data to predict demand, then it will learn to replicate the biases present in the historical data. Thus, the predicted demand here will look nearly the same as the historical data. But, how do we know that other regions that don't have historical data don't need this resource?
 
 #### Spatially Sensitive (*preliminary*)
 
@@ -111,7 +120,7 @@ A short note about the demographics data for Pittsburgh: I had difficulty access
   <br>
   <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/scorepredoutflow.png" width=550>
   <br>
-  <i> Caption here </i>
+  <i> Using infrastructural attributes, historical data, and demographics we can identify new regions to explore without being biased. </i>
 </p>
 
 ---
@@ -133,7 +142,11 @@ Several datasets and APIs were used to create the following visualizations. Thes
 #### Demographics
 
 <p align="center">
+  <b> ACS 2019 5 year estimate for race by census tract</b> from <a href="https://www.walkscore.com/professional/">walkscore.com</a>
+  <br>
   <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/NYCrace_combo.png" width=650>
+  <br>
+  <i> These visualizations follow similar trends seen in Pitsburgh, PA </i>
 </p>
 
 #### Infrastructure
