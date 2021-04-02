@@ -107,6 +107,12 @@ We are training a variety of supervised learning models on a variety of features
 
 #### Historical Data
 
+<p align="center">
+  <b> Relationship between predicted demand and ground truth <i>Preliminary Results</i></b>
+  <br>
+  <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/RandomForest.png" width=650>
+</p>
+
 2018 Outflow       |     2019 Outflow |    2020 Outflow      | Predicted Demand using mean |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![width="40"](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/outflow%202018.png)  |  ![](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/outflow%202019.png) | ![](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/outflow%202020.png) | ![](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/predmean.png)
