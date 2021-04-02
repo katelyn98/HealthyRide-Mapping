@@ -33,7 +33,7 @@ A short note about the demographics data for Pittsburgh: I had difficulty access
   <br>
   <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/population.png" width=550>
   <br>
-  <i> Caption here </i>
+  <i> Downtown and the university campuses fall within census tracts that have a large population. </i>
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ A short note about the demographics data for Pittsburgh: I had difficulty access
   <br>
   <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/Commutingtrends.png">
   <br>
-  <i> caption here </i>
+  <i> The main point to take away from these visualizations is that there is a tendency for bike stations to exist in census tracts where  40% or more of the population travel to work alone by their own vehicle. It is also evident that very few bike stations fall within census tracts very a majority of the population uses some form of public transportation or walks to get to work. </i>
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@ A short note about the demographics data for Pittsburgh: I had difficulty access
   <br>
   <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/meantraveltime.png" width=550>
   <br>
-  <i> Caption here </i>
+  <i> Mean travel time is calculated by including time waiting for buses as well as being stuck in traffic. Overall, it is unrealisitc to expect an individual to substitute a bike ride for a >25 minute car ride in the city. Looking at where stations are allocated, a significant number of stations are located in census tracts that have a mean travel time to work less than 30 minutes. </i>
 </p>
 
 #### Household Income
@@ -69,7 +69,7 @@ A short note about the demographics data for Pittsburgh: I had difficulty access
   <br>
   <img src="https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/FinalAnalyses/Plasma/incomecombo.png" width=750>
   <br>
-  <i> Caption here </i>
+  <i> It is vital that low-income citizens have reliable access to affordable, on-demand transportation. However, a significant number of bike stations are allocated in census tracts that are well above the poverty line in PA of $50,000. </i>
 </p>
 
 #### Poor Housing Conditions
