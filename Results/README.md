@@ -2,7 +2,7 @@
 
 All of the following analyses were generated in the jupyter notebookes located in the [`notebooks` folder](https://github.com/katelyn98/HealthyRide-Mapping/tree/master/Notebooks). The primary notebook files that have a majority of the analyses are [PGH ML Dataset](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Notebooks/PGH%20ML%20DataSet.ipynb), [PGHCenpy](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Notebooks/PGHCenpy.ipynb), and [NYC Analyses](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Notebooks/NYC%20Analyses.ipynb). There are other analyses scattered throughout the other notebooks. 
 
-Preliminary models that are being trained on a variety of features can be found in the [`models` folder](https://github.com/katelyn98/HealthyRide-Mapping/tree/master/Models). You can view some preliminary results of our Random Forest model [here]().
+Preliminary models that are being trained on a variety of features can be found in the [`models` folder](https://github.com/katelyn98/HealthyRide-Mapping/tree/master/Models). You can view some preliminary results of our Random Forest model [here](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Results/README.md#historical-data).
 
 ---
 ## Pittsburgh, PA
