@@ -184,3 +184,6 @@ Several datasets and APIs were used to create the following visualizations. Thes
 ## Chicago, IL (*Working Progress*)
 
 The bike sharing program in Chicago, IL is called [Divy Bike](https://www.divvybikes.com/) and is also powered by [Lyft](https://www.lyft.com/bikes/chicago-il).
+
+---
+## Chattanooga, TN (*New Addition as of March 30th*)
