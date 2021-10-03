@@ -28,7 +28,7 @@ The visualization on the left maps the relationship between the location of bike
 ## Related Presentations on this Repo
 
 **2021**
-* [Spatially Sensitive Learning Algorithm to Mitigate Discrimination in Resource Allocation](#)
+* [Spatially Sensitive Learning Algorithm to Mitigate Discrimination in Resource Allocation](https://github.com/katelyn98/HealthyRide-Mapping/blob/master/Presentations/ACCmeetingminds2021.key)
   * Presenation on April 9th, 2021 at the *15th Annual ACC Meeting of the Minds*
 * [Reducing Discrimination in Learning Algorithms for Social Good in Sociotechnical Systems](https://arxiv.org/pdf/2011.13988.pdf)
   * Presenation on January 8th, 2021 at the *AI for Social Good Workshop at the International Joint Conference on Artificial Intelligence*
